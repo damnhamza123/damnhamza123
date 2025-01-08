@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/daamnhamza" target="blank"><img src="https://img.shields.io/twitter/follow/daamnhamza?logo=twitter&style=for-the-badge" alt="daamnhamza" /></a> </p>
 
-- 🔭 I’m currently working on [Youtube Video Downloader](https://github.com/damnhamza123/downloader)
+- 🔭 I’m currently working on [AI WEB Scraper](https://github.com/damnhamza123/Ai-web-Scraper)
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 💬 Ask me about **Python, Html, CSS, JavaScript**
 
@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/daamnhamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="daamnhamza" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/damnhamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damnhamza" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/muhammadhamzaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damnhamza" height="30" width="40" /></a>
 <a href="https://fb.com/hamzakhanswati.1234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamzakhanswati.1234" height="30" width="40" /></a>
 <a href="https://instagram.com/damnhaamza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="damnhaamza" height="30" width="40" /></a>
 </p>
