@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/daamnhamza" target="blank"><img src="https://img.shields.io/twitter/follow/daamnhamza?logo=twitter&style=for-the-badge" alt="daamnhamza" /></a> </p>
 
-- 🔭 I’m currently working on [AI WEB Scraper](https://github.com/damnhamza123/Ai-web-Scraper)
+- 🔭 I’m currently working on Bone Fracture Detection using SVM and PCA
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
