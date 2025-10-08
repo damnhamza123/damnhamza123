@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on Bone Fracture Detection using SVM and PCA
 
-- 🌱 I’m currently learning **Data Science and Machine Learning**
+- 🌱 I’m currently learning **C# and .NetCore**
 
-- 💬 Ask me about **Python, Html, CSS, JavaScript**
+- 💬 Ask me about ***Data Science, Machine Learning, Python, Html, CSS, JavaScript**
 
 - 📫 How to reach me **hamzakhanswati0@gmail.com**
 
